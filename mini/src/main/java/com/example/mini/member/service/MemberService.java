@@ -1,0 +1,19 @@
+package com.example.mini.member.service;
+
+import java.util.List;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.springframework.dao.DataAccessException;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.servlet.ModelAndView;
+
+import com.example.mini.member.vo.ItemVO;
+import com.example.mini.member.vo.MemberVO;
+
+public interface MemberService {
+	 public List listItems() throws Exception;
+	 public int addMember(MemberVO memberVO) throws Exception;
+	 public MemberVO login(MemberVO memberVO) throws Exception;
+}
