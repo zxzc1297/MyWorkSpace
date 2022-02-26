@@ -1,37 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T08:54:32.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="RoFO-_FHBgf0s3aqLpbk" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T15:31:30.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="-1yZV8lY6g4-7kE_DtTu" version="16.6.2" type="github">
   <diagram id="7Vj3tmyqA_x4jNUPdjKG" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1094" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YRLMuLYExHs1LfgphBA4-1" value="시작" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YRLMuLYExHs1LfgphBA4-1" value="시작" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="110" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YRLMuLYExHs1LfgphBA4-3" value="체중 키 입력&lt;br&gt;bmi 산출" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YRLMuLYExHs1LfgphBA4-3" value="체중 키 입력&lt;br&gt;bmi 산출" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="310" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YRLMuLYExHs1LfgphBA4-4" value="성별" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YRLMuLYExHs1LfgphBA4-4" value="성별" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="200" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YRLMuLYExHs1LfgphBA4-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="YRLMuLYExHs1LfgphBA4-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="250" as="sourcePoint" />
             <mxPoint x="270" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YRLMuLYExHs1LfgphBA4-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="YRLMuLYExHs1LfgphBA4-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="250" as="sourcePoint" />
             <mxPoint x="470" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YRLMuLYExHs1LfgphBA4-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="YRLMuLYExHs1LfgphBA4-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="369.5" y="170" as="sourcePoint" />
             <mxPoint x="369.5" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YRLMuLYExHs1LfgphBA4-13" value="체중 키 입력&lt;br&gt;bmi 산출" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YRLMuLYExHs1LfgphBA4-13" value="체중 키 입력&lt;br&gt;bmi 산출" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="310" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
