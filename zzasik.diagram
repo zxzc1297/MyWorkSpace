@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T07:18:40.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Bg7OrLrSj4wAEN9SHEkp" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T04:45:49.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="8lq9EpNZEUwGF54SDEQ9" version="16.6.6" type="github">
   <diagram id="7Vj3tmyqA_x4jNUPdjKG" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3555" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,29 +82,29 @@
         <mxCell id="KbaEPiok8HAmyWys05dY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KbaEPiok8HAmyWys05dY-15" target="KbaEPiok8HAmyWys05dY-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbaEPiok8HAmyWys05dY-15" target="kknKjZJpZy9Y3vsR6KK0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KbaEPiok8HAmyWys05dY-15" value="목적" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KbaEPiok8HAmyWys05dY-16" target="BwFqFfgOGYXVClWNhV3G-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KbaEPiok8HAmyWys05dY-16" value="다이어트" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="1110" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KbaEPiok8HAmyWys05dY-17" target="BwFqFfgOGYXVClWNhV3G-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KbaEPiok8HAmyWys05dY-17" value="근력증진" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="1110" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KbaEPiok8HAmyWys05dY-18" target="BwFqFfgOGYXVClWNhV3G-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KbaEPiok8HAmyWys05dY-18" value="건강유지" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="1110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BwFqFfgOGYXVClWNhV3G-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KbaEPiok8HAmyWys05dY-23" target="BwFqFfgOGYXVClWNhV3G-75" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="420" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KbaEPiok8HAmyWys05dY-23" target="BwFqFfgOGYXVClWNhV3G-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -115,11 +115,20 @@
         <mxCell id="BwFqFfgOGYXVClWNhV3G-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KbaEPiok8HAmyWys05dY-23" target="BwFqFfgOGYXVClWNhV3G-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbaEPiok8HAmyWys05dY-23" target="BwFqFfgOGYXVClWNhV3G-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KbaEPiok8HAmyWys05dY-23" target="kknKjZJpZy9Y3vsR6KK0-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KbaEPiok8HAmyWys05dY-23" target="kknKjZJpZy9Y3vsR6KK0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KbaEPiok8HAmyWys05dY-23" value="질환" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="1160" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="200" width="660" height="180" as="geometry" />
+          <mxGeometry x="40" y="200" width="830" height="280" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-2" value="다이어트식단" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="220" width="120" height="60" as="geometry" />
@@ -160,7 +169,7 @@
         <mxCell id="BwFqFfgOGYXVClWNhV3G-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BwFqFfgOGYXVClWNhV3G-11" target="BwFqFfgOGYXVClWNhV3G-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BwFqFfgOGYXVClWNhV3G-11" value="20대~30대" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BwFqFfgOGYXVClWNhV3G-11" value="30대 이하" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1720" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BwFqFfgOGYXVClWNhV3G-12" target="BwFqFfgOGYXVClWNhV3G-54" edge="1">
@@ -252,19 +261,19 @@
         <mxCell id="BwFqFfgOGYXVClWNhV3G-41" value="기초대사량 및 bmi 산출" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1990" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwFqFfgOGYXVClWNhV3G-48" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;특정 식단 제외&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BwFqFfgOGYXVClWNhV3G-48" value="맞지 않는 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwFqFfgOGYXVClWNhV3G-49" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;특정 식단 제외&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BwFqFfgOGYXVClWNhV3G-49" value="맞지 않는 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwFqFfgOGYXVClWNhV3G-50" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;특정 식단 제외&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BwFqFfgOGYXVClWNhV3G-50" value="맞지 않는 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwFqFfgOGYXVClWNhV3G-51" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;특정 식단 제외&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BwFqFfgOGYXVClWNhV3G-51" value="맞지 않는 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwFqFfgOGYXVClWNhV3G-52" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;특정 식단 제외&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BwFqFfgOGYXVClWNhV3G-52" value="bmi 기반으로&amp;nbsp;&lt;br&gt;맞지않는 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2170" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-53" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;특정 식단 제외&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -276,53 +285,212 @@
         <mxCell id="BwFqFfgOGYXVClWNhV3G-55" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;특정 식단 제외&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1720" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwFqFfgOGYXVClWNhV3G-56" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;특정 식단 제외&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="1220" width="120" height="60" as="geometry" />
+        <mxCell id="BwFqFfgOGYXVClWNhV3G-56" value="맞지 않는 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwFqFfgOGYXVClWNhV3G-57" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;특정 식단 제외&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="1220" width="120" height="60" as="geometry" />
+        <mxCell id="BwFqFfgOGYXVClWNhV3G-57" value="맞지 않는 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwFqFfgOGYXVClWNhV3G-58" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;특정 식단 제외&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="1220" width="120" height="60" as="geometry" />
+        <mxCell id="BwFqFfgOGYXVClWNhV3G-58" value="맞지 않는 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BwFqFfgOGYXVClWNhV3G-72" target="BwFqFfgOGYXVClWNhV3G-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-72" value="만성신장질환" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="1470" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BwFqFfgOGYXVClWNhV3G-73" target="BwFqFfgOGYXVClWNhV3G-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-73" value="고혈압" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BwFqFfgOGYXVClWNhV3G-74" target="BwFqFfgOGYXVClWNhV3G-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BwFqFfgOGYXVClWNhV3G-74" value="저혈압" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BwFqFfgOGYXVClWNhV3G-75" target="BwFqFfgOGYXVClWNhV3G-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-75" value="당뇨&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwFqFfgOGYXVClWNhV3G-80" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;특정 식단 제외&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="BwFqFfgOGYXVClWNhV3G-80" value="질환맞춤식단만 등록" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1470" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwFqFfgOGYXVClWNhV3G-81" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;특정 식단 제외&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="BwFqFfgOGYXVClWNhV3G-81" value="질환맞춤식단만 등록" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-82" value="&lt;span&gt;특정 식단 제외&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwFqFfgOGYXVClWNhV3G-83" value="특정 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="BwFqFfgOGYXVClWNhV3G-83" value="질환맞춤식단만 등록" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFqFfgOGYXVClWNhV3G-88" value="식단 목록 (추가 예정)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="155" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-1" value="당뇨식" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-2" value="고혈압식단" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-3" value="저혈압식단" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-4" value="빈혈맞춤식단" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-5" value="신장질환식단" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-6" value="고칼로리식단" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-7" value="저칼로리식단" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-8" target="kknKjZJpZy9Y3vsR6KK0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-8" value="질환치료" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-10" value="질환질문 목록 처리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFqFfgOGYXVClWNhV3G-74" value="저혈압" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="KbaEPiok8HAmyWys05dY-23" target="BwFqFfgOGYXVClWNhV3G-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="1020" as="sourcePoint" />
+            <mxPoint x="160" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-16" target="kknKjZJpZy9Y3vsR6KK0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-16" value="통풍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-17" target="kknKjZJpZy9Y3vsR6KK0-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-17" value="빈혈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-19" value="질환맞춤식단만 등록" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-20" value="질환맞춤식단만 등록" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-25" value="질환" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-26" value="저혈압" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-27" value="당뇨&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-28" value="빈혈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-29" value="질환맞춤식단만 등록" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-30" value="질환맞춤식단만 등록" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-31" value="&lt;span&gt;특정 식단 제외&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-32" value="질환맞춤식단만 등록" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-33" value="고혈압" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-34" value="만성신장질환" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-35" value="질환에 안좋은 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-36" target="kknKjZJpZy9Y3vsR6KK0-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-36" value="통풍" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-37" value="질환에 안좋은 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-38" target="kknKjZJpZy9Y3vsR6KK0-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-38" target="kknKjZJpZy9Y3vsR6KK0-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-38" target="kknKjZJpZy9Y3vsR6KK0-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-38" target="kknKjZJpZy9Y3vsR6KK0-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-38" target="kknKjZJpZy9Y3vsR6KK0-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-38" target="kknKjZJpZy9Y3vsR6KK0-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-38" value="과거 질환" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-39" target="kknKjZJpZy9Y3vsR6KK0-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-39" value="저혈압" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-40" target="kknKjZJpZy9Y3vsR6KK0-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-40" value="당뇨&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-41" target="kknKjZJpZy9Y3vsR6KK0-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-41" value="빈혈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-42" value="질환에 안좋은 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-43" value="질환에 안좋은 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-44" value="질환에 안좋은 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-45" value="질환에 안좋은 식단 제외" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-46" target="kknKjZJpZy9Y3vsR6KK0-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-46" value="고혈압" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kknKjZJpZy9Y3vsR6KK0-47" target="kknKjZJpZy9Y3vsR6KK0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kknKjZJpZy9Y3vsR6KK0-47" value="만성신장질환" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
